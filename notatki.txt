@@ -1,0 +1,29 @@
+﻿npm install -g create-react-app
+www.draw.io //może być przydatne do tworzenia materiałów
+npx create-react-app <name of project>
+
+lub 
+
+create-react-app <name of project>
+
+public ma static files, które się nie zmieniają
+
+react component is a function or a class ->
+-> produkuje html używająć JSX -> zarządza feedbackiem od usera
+
+w jsx inaczej zamieszczas się styl elementu
+pierwszy nawias zmienna js
+drugi nawias odniesienie do obiektu
+uzywamy CamelCase
+
+React system:
+ component nesting 
+ component resuability
+ component configuration
+
+
+npm install --save faker
+
+props system
+props od rodzica -> do dziecka
+dziecko nie może przekazać danych do rodzica bezpośrednio przez propsy
